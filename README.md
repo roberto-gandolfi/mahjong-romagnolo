@@ -2,6 +2,10 @@
 
 App web per imparare e giocare al Mah-Jong secondo il **Regolamento ufficiale F.I.M.J. (4ª edizione)**.
 
+**Apri l'app:** https://roberto-gandolfi.github.io/mahjong-romagnolo/
+
+Ogni push sul ramo `main` esegue i test e ripubblica il sito in automatico (`.github/workflows/pages.yml`).
+
 ## Cosa contiene (v0.1)
 - **Impara**: catalogo delle tessere, 8 lezioni brevi con quiz, partita guidata passo-passo, prontuario, calcolatore della breccia per il set vero.
 - **Conta punti**: inserimento delle combinazioni dei 4 giocatori, recap riga per riga (punti, raddoppi, formula, limite), chi paga a chi, segnapunti della partita.
